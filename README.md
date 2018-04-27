@@ -1,6 +1,6 @@
 SM Para Motor
 
-Amod that adds a Para Motor for your Kerbals ... Requires Kerbal Invetory System (KIS)
+A mod that adds a Para Motor for your Kerbals ... Requires Kerbal Inventory System (KIS)
 
 
 Build Status License: GPL v3 License
